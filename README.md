@@ -2,6 +2,8 @@
 
 Esta aplicación fue creada en Flutter para gestionar el cobro de tickets en un evento, ofreciendo un diseño simple y funcional. A continuación, se detalla cada parte del código:
 
+## WEB
+## https://ticketapp-inky.vercel.app
 ## Funcionalidades Principales
 
 1. Cobro de Tickets: Calcula el costo total basado en la cantidad de boletos para niños y adultos.
