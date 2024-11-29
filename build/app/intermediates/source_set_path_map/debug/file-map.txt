@@ -1,0 +1,28 @@
+com.example.ticket_app-jetified-savedstate-1.2.1-0 C:\Users\victo\.gradle\caches\8.10\transforms\016ba81c68762594b1c0f38123ed6553\transformed\jetified-savedstate-1.2.1\res
+com.example.ticket_app-jetified-lifecycle-process-2.7.0-1 C:\Users\victo\.gradle\caches\8.10\transforms\040d867ea437c8a1a08666c3ab709f81\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.ticket_app-jetified-core-ktx-1.13.1-2 C:\Users\victo\.gradle\caches\8.10\transforms\12df55fd6f74d066d101daf6144c8199\transformed\jetified-core-ktx-1.13.1\res
+com.example.ticket_app-lifecycle-runtime-2.7.0-3 C:\Users\victo\.gradle\caches\8.10\transforms\1b9d3711daf576f5c3a0e30e9790ba9c\transformed\lifecycle-runtime-2.7.0\res
+com.example.ticket_app-jetified-core-1.0.0-4 C:\Users\victo\.gradle\caches\8.10\transforms\2d4be8872370dab84f79956b989d1c98\transformed\jetified-core-1.0.0\res
+com.example.ticket_app-lifecycle-viewmodel-2.7.0-5 C:\Users\victo\.gradle\caches\8.10\transforms\3603dd8bd68e4fd6df1125d424078403\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.ticket_app-lifecycle-livedata-core-2.7.0-6 C:\Users\victo\.gradle\caches\8.10\transforms\3c2e9950bb0a7bf5a0f981c610641792\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.ticket_app-jetified-activity-1.8.1-7 C:\Users\victo\.gradle\caches\8.10\transforms\3d881638fc5f9fcc52b74fea8e8d96c3\transformed\jetified-activity-1.8.1\res
+com.example.ticket_app-jetified-lifecycle-viewmodel-savedstate-2.7.0-8 C:\Users\victo\.gradle\caches\8.10\transforms\3eb06554cc6b583ae9121276b56e3c41\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.ticket_app-jetified-tracing-1.2.0-9 C:\Users\victo\.gradle\caches\8.10\transforms\4d68c388f4e0a854b762222014b9e259\transformed\jetified-tracing-1.2.0\res
+com.example.ticket_app-lifecycle-livedata-2.7.0-10 C:\Users\victo\.gradle\caches\8.10\transforms\4e495dbf4119aca6755400651ac87431\transformed\lifecycle-livedata-2.7.0\res
+com.example.ticket_app-jetified-annotation-experimental-1.4.0-11 C:\Users\victo\.gradle\caches\8.10\transforms\6b73142e0c9d58e839115e4b288e99ac\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.ticket_app-jetified-profileinstaller-1.3.1-12 C:\Users\victo\.gradle\caches\8.10\transforms\7c8f9516ce534bc027adf5edaaf14d61\transformed\jetified-profileinstaller-1.3.1\res
+com.example.ticket_app-jetified-startup-runtime-1.1.1-13 C:\Users\victo\.gradle\caches\8.10\transforms\9d534e41b924c8c8ecc45d77dcceb0cc\transformed\jetified-startup-runtime-1.1.1\res
+com.example.ticket_app-jetified-window-1.2.0-14 C:\Users\victo\.gradle\caches\8.10\transforms\ddf5742bb956dc102dec92f9ef314506\transformed\jetified-window-1.2.0\res
+com.example.ticket_app-core-1.13.1-15 C:\Users\victo\.gradle\caches\8.10\transforms\f3a768fa041627df9c085e4bf28f9948\transformed\core-1.13.1\res
+com.example.ticket_app-fragment-1.7.1-16 C:\Users\victo\.gradle\caches\8.10\transforms\f53523b3986cecc0a13df4c6a9554974\transformed\fragment-1.7.1\res
+com.example.ticket_app-jetified-window-java-1.2.0-17 C:\Users\victo\.gradle\caches\8.10\transforms\f78f7cf502582eef4dfa84b70f506494\transformed\jetified-window-java-1.2.0\res
+com.example.ticket_app-jetified-lifecycle-livedata-core-ktx-2.7.0-18 C:\Users\victo\.gradle\caches\8.10\transforms\f90f0936677987d30114afc13751620d\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.ticket_app-core-runtime-2.2.0-19 C:\Users\victo\.gradle\caches\8.10\transforms\f9e9a93669144122d94e104523b428b9\transformed\core-runtime-2.2.0\res
+com.example.ticket_app-debug-20 D:\Archivos de programa\Proyectos VS\AppTickets\ticket_app\android\app\src\debug\res
+com.example.ticket_app-main-21 D:\Archivos de programa\Proyectos VS\AppTickets\ticket_app\android\app\src\main\res
+com.example.ticket_app-pngs-22 D:\Archivos de programa\Proyectos VS\AppTickets\ticket_app\build\app\generated\res\pngs\debug
+com.example.ticket_app-resValues-23 D:\Archivos de programa\Proyectos VS\AppTickets\ticket_app\build\app\generated\res\resValues\debug
+com.example.ticket_app-rs-24 D:\Archivos de programa\Proyectos VS\AppTickets\ticket_app\build\app\generated\res\rs\debug
+com.example.ticket_app-mergeDebugResources-25 D:\Archivos de programa\Proyectos VS\AppTickets\ticket_app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.ticket_app-mergeDebugResources-26 D:\Archivos de programa\Proyectos VS\AppTickets\ticket_app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.ticket_app-merged_res-27 D:\Archivos de programa\Proyectos VS\AppTickets\ticket_app\build\app\intermediates\merged_res\debug
